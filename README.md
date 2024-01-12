@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nabin154&label=Profile%20views&color=0e75b6&style=flat" alt="nabin154" /> </p>
 
-- 👨‍💻 All of my projects are available at [nabinbhandari45.com.np](nabinbhandari45.com.np)
+- 👨‍💻 All of my projects are available at [https://nabinbhandari45.com.np/]
 
 - 📫 How to reach me **bnabin555@gmail.com**
 
